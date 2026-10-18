@@ -170,3 +170,5 @@ To check the result, open your GitHub repository and select the **Actions** tab.
 - Organize code and test files into separate folders.
 - Use Git and GitHub for version control.
 - Understand how a CI pipeline automatically checks code changes.
+
+GitHub Actions CI workflow test.
